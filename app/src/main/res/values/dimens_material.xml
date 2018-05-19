@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="UnusedResources">
+    <!-- Default -->
+    <dimen name="material_default_padding">16dip</dimen>
+    <dimen name="material_half_padding">8dip</dimen>
+    <dimen name="material_default_elevation">4dip</dimen>
+    <dimen name="material_touchable_minheight">48dip</dimen>
+    <!-- Typography -->
+    <dimen name="material_typography_textsize_display4">112sp</dimen>
+    <dimen name="material_typography_textsize_display3">56sp</dimen>
+    <dimen name="material_typography_textsize_display2">45sp</dimen>
+    <dimen name="material_typography_textsize_display1">34sp</dimen>
+    <dimen name="material_typography_textsize_headline">24sp</dimen>
+    <dimen name="material_typography_textsize_title">20sp</dimen>
+    <dimen name="material_typography_textsize_subheading">16sp</dimen>
+    <dimen name="material_typography_textsize_body">14sp</dimen>
+    <dimen name="material_typography_textsize_caption">12sp</dimen>
+    <dimen name="material_typography_textsize_button">14sp</dimen>
+</resources>
